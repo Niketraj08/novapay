@@ -1,10 +1,4 @@
-# NovaPay — Design Prompt
 
-## Vibe
-Modern fintech landing page with a premium, slightly editorial feel.
-Should feel **alive but composed** — closer to Linear/Stripe than to a
-typical SaaS template. Avoid generic AI aesthetics (no cyan/purple
-gradients, no Inter, no centered hero with three-column icon grid).
 
 ## Color System
 - **Base**: deep dark slate `#0F1319` with layered surfaces `#141920`, `#1A2130`, `#1E2838`
