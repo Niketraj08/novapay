@@ -1,25 +1,3 @@
-/*
-================================================================================
-  NovaPay — Modern Financial Platform
-  Template: templatemo-623-novapay
-  JavaScript
-  Designed by TemplateMo  (https://templatemo.com)
-
-  Modules:
-    1. Live ticker         — infinite CSS scroll with hover-pause
-    2. Trusted-by logos    — infinite CSS scroll
-    3. Nav scroll behavior — translateY snap on scroll past ticker
-    4. Mobile menu         — body-scroll-lock + landscape-safe layout
-    5. Stats counter       — IntersectionObserver count-up + bar fill
-    6. Sticky stack        — scroll-driven feature switcher with right-panel swap
-    7. Pricing toggle      — monthly / annual with dual price display
-    8. FAQ                 — independent accordion + expand/collapse all
-    9. Testimonials        — auto-scroll carousel with play/pause
-   10. Period switcher     — dashboard time range toggle (7D/1M/3M/1Y)
-   11. Silk reveals        — IntersectionObserver scroll-triggered animations
-   12. Phone 3D tilt       — window-wide mouse tracking with lerp easing
-================================================================================
-*/
 
 const tickerData=[
   {sym:'BTC/USD',price:'$67,240',chg:'+2.14%',up:true},
